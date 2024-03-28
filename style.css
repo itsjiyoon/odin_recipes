@@ -1,0 +1,17 @@
+h1,
+h3 {
+    font-family: "Courier New", monospace;
+}
+
+p,
+li,
+ol {
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+}
+
+p {
+    font-size: 15px;
+}
+
+
