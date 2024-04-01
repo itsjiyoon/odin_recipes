@@ -1,6 +1,7 @@
 h1,
 h3 {
     font-family: "Courier New", monospace;
+
 }
 
 p,
@@ -14,4 +15,22 @@ p {
     font-size: 15px;
 }
 
+h3 {
+    width: 150px;
+    text-align: center;
+    background-color: rgb(206, 255, 126);
+}
+
+.steps {
+    width: 85px;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
 
